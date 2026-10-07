@@ -5,3 +5,5 @@ if n%2==0:
 else:
     print("odd")
 
+s = input("enter a string : ")
+print(s[::-1])

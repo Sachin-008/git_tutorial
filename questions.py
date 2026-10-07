@@ -1,4 +1,4 @@
-print("its in the practice branch..")
+
 n = int(input("enter a number : "))
 if n%2==0:
     print("even.")
@@ -7,3 +7,5 @@ else:
 
 s = input("enter a string : ")
 print(s[::-1])
+print()
+print("hello world..")
